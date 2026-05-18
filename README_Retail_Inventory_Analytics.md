@@ -72,7 +72,7 @@ Report pages in the PBIX:
 ![Overview]("[Dashboard Images/Executive Overview.png](https://github.com/Prince06124/Retail-Inventory-Analytics/blob/main/Dashboard%20Images/Executive%20Overview.png)")
 
 ### Inventory Analytics
-![Inventory]("H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Inventory Analytics.png")
+![Inventory]("[H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Inventory Analytics.png](https://github.com/Prince06124/Retail-Inventory-Analytics/blob/main/Dashboard%20Images/Inventory%20Analytics.png)")
 
 ### Demand & Customer Analytics
 ![Demand]("H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Demand & Customer Analytics.png")
