@@ -78,7 +78,7 @@ Report pages in the PBIX:
 ![Demand]("[H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Demand & Customer Analytics.png](https://github.com/Prince06124/Retail-Inventory-Analytics/blob/main/Dashboard%20Images/Demand%20%26%20Customer%20Analytics.png)")
 
 ### Product Performance
-![Product]("H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Product Performance.png")
+![Product]("[H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Product Performance.png](https://github.com/Prince06124/Retail-Inventory-Analytics/blob/main/Dashboard%20Images/Product%20Performance.png)")
 
 ## Suggested README structure for GitHub
 
