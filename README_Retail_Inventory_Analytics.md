@@ -69,7 +69,7 @@ Report pages in the PBIX:
 
 ### 3. Dashboard View
 ### Executive Overview
-![Overview]("Dashboard Images/Executive Overview.png")
+![Overview]("[Dashboard Images/Executive Overview.png](https://github.com/Prince06124/Retail-Inventory-Analytics/blob/main/Dashboard%20Images/Executive%20Overview.png)")
 
 ### Inventory Analytics
 ![Inventory]("H:\Inventory project\Retail-Inventory-Analytics\Dashboard Images\Inventory Analytics.png")
